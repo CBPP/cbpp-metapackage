@@ -10,7 +10,7 @@ Package: cbpp-metapackage
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
- compton, transset-df, file-roller, xscreensaver, terminator, gftp, 
+ compton, transset-df, file-roller, xscreensaver, terminator, filezilla, 
  lxappearance, arandr, tint2, clipit, catfish, xfce4-notifyd, gksu, 
  gdebi, menu, wmctrl, xdotool, desktop-base, slim, thunar, 
  thunar-volman,thunar-media-tags-plugin, thunar-archive-plugin, unace, 
