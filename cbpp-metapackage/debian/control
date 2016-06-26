@@ -12,7 +12,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
  compton, transset-df, file-roller, xscreensaver, terminator, filezilla, 
  lxappearance, arandr, tint2, clipit, catfish, xfce4-notifyd, gksu, 
- gdebi, menu, wmctrl, xdotool, desktop-base, slim, thunar, 
+ gdebi, menu, wmctrl, xdotool, desktop-base, lightdm, thunar, 
  thunar-volman,thunar-media-tags-plugin, thunar-archive-plugin, unace, 
  lzop, rzip,unalz, unzip, zip, zoo, xz-utils, arj, bzip2, alsa-base, 
  lame, xfce4-mixer, pulseaudio, pavucontrol, xfce4-volumed, viewnior, 
@@ -30,12 +30,9 @@ Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb,
  apt-xapian-index, usbutils, hsetroot, htop, xsel, build-essential, 
  hexchat, transmission-gtk, vlc, geany, geany-plugins, atril, gimp, 
  gimp-plugin-registry, gnumeric, abiword, mlocate, python-keybinder, 
- python-notify, udisks, mate-power-manager, eject, gnome-keyring,
+ python-notify, udisks, xfce-power-manager, eject, gnome-keyring,
  libdvdcss2, pnmixer, obapps, cbpp-pipemenus, 
  cbpp-wallpapers, cbpp-slim-theme, cbpp-exit, cbpp-configs, 
- cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-slim, 
- firmware-realtek, firmware-atheros, firmware-brcm80211, 
- firmware-ipw2x00, firmware-iwlwifi, firmware-linux, firmware-ralink, 
- firmware-ti-connectivity
+ cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-slim
 Description: metapackage for CrunchBangPlusPlus
  Basic metapackage for CrunchBangPlusPlus.
