@@ -6,6 +6,7 @@ cbpp-metapackage (1.1) unstable; urgency=low
   * Removed slim-theme dependency
   * Added tumbler for thunar thumbnails
   * Added ntfs-3g for NTFS volume support
+  * Added dosfstools for fat32 volume support
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 26 June 2016 15:38:23 -0500
 
