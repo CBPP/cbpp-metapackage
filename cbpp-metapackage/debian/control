@@ -9,13 +9,13 @@ Homepage: https://crunchbangplusplus.org
 Package: cbpp-metapackage
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Recommends: xorg, lxddm, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
+Recommends: xorg, lxdm, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
  compton, transset-df, file-roller, xscreensaver, terminator, filezilla, 
  lxappearance, arandr, tint2, clipit, catfish, xfce4-notifyd, gksu, 
  gdebi, menu, wmctrl, xdotool, desktop-base, thunar, 
  thunar-volman, thunar-media-tags-plugin, thunar-archive-plugin, unace, 
- lzop, rzip,unalz, unzip, zip, zoo, xz-utils, arj, bzip2, alsa-base, 
- lame, pulseaudio, pavucontrol, viewnior, 
+ lzop, rzip, unalz, unzip, zip, zoo, xz-utils, arj, bzip2, alsa-base, 
+ lame, pulseaudio, viewnior, 
  xfce4-screenshooter, ttf-freefont, ttf-liberation, galculator, 
  gsimplecal, iceweasel, network-manager-gnome, 
  network-manager-openvpn-gnome, network-manager-pptp-gnome, 
@@ -25,14 +25,14 @@ Recommends: xorg, lxddm, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb,
  user-setup, anacron, os-prober, bash-completion, less, bc, curl, 
  screen, cowsay, figlet, scrot, whois, ftp, rpl, conky-all, zenity, 
  xfburn, rsync, openssh-client, sshfs, suckless-tools, gparted, 
- e2fsprogs, xfsprogs, reiserfsprogs, reiser4progs, jfsutils, synaptic, 
+ e2fsprogs, xfsprogs, synaptic, 
  gtrayicon, xinput, cpufrequtils, ntp, xtightvncviewer, debconf-utils, 
  apt-xapian-index, usbutils, hsetroot, htop, xsel, build-essential, 
  hexchat, transmission-gtk, vlc, geany, geany-plugins, atril, gimp, 
  gimp-plugin-registry, gnumeric, abiword, mlocate, python-keybinder, 
  python-notify, udisks, xfce4-power-manager, eject, gnome-keyring,
- libdvdcss2, pnmixer, obapps, cbpp-pipemenus, 
- cbpp-wallpapers, cbpp-exit, cbpp-configs, 
+ libdvdcss2, mate-media, obapps, cbpp-pipemenus, 
+ cbpp-wallpapers, cbpp-exit, cbpp-configs,
  cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-lxdm-theme
 Description: metapackage for CrunchBangPlusPlus
  Basic metapackage for CrunchBangPlusPlus.
