@@ -2,17 +2,17 @@ Source: cbpp-metapackage
 Section: misc
 Priority: optional
 Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 11)
 Standards-Version: 3.9.5
 Homepage: https://crunchbangplusplus.org
 
 Package: cbpp-metapackage
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}
 Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
  compton, transset-df, file-roller, xscreensaver, terminator, filezilla, 
  lxappearance, arandr, tint2, clipit, catfish, xfce4-notifyd, gksu, 
- gdebi, menu, wmctrl, xdotool, desktop-base, slim, thunar, 
+ gdebi, menu, wmctrl, xdotool, desktop-base, thunar, 
  thunar-volman,thunar-media-tags-plugin, thunar-archive-plugin, unace, 
  lzop, rzip, unalz, unzip, zip, zoo, xz-utils, arj, bzip2, alsa-base, 
  lame, pulseaudio, mate-volume-control, viewnior, 
@@ -30,7 +30,7 @@ Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb,
  hexchat, transmission-gtk, vlc, geany, geany-plugins, atril, gimp, 
  gimp-plugin-registry, gnumeric, abiword, mlocate, python-keybinder, 
  python-notify, udisks, mate-power-manager, eject, gnome-keyring,
- libdvdcss2, pnmixer, obapps, synaptic, cbpp-pipemenus, 
+ ibus, pnmixer, obapps, synaptic, cbpp-pipemenus, 
  cbpp-wallpapers, cbpp-lxdm-theme, cbpp-exit, cbpp-configs, 
  cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-slim, 
 Description: metapackage for CrunchBangPlusPlus
