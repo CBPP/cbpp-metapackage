@@ -7,6 +7,18 @@ cbpp-metapackage (9.0) unstable; urgency=low
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Mon, 27 Feb 2017 23:23:23 -0800
 
+cbpp-metapackage (1.1) unstable; urgency=low
+
+  * Removed unnecessary firmware deps.
+  * Switched to lightdm for display manager.
+  * Switched to xfce power manager.
+  * Removed slim-theme dependency
+  * Added tumbler for thunar thumbnails
+  * Added ntfs-3g for NTFS volume support
+  * Added dosfstools for fat32 volume support
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 26 June 2016 15:38:23 -0500
+
 cbpp-metapackage (1.0) unstable; urgency=low
 
   * Initial Release.
