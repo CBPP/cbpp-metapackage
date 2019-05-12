@@ -1,3 +1,12 @@
+cbpp-metapackage (9.0) unstable; urgency=low
+
+  * 1+1=9.
+  * Remove slimmy dependencies for LXDM and themes.
+  * Back to xfce4-power-manager
+  * Pasystray
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Mon, 27 Feb 2017 23:23:23 -0800
+
 cbpp-metapackage (1.0) unstable; urgency=low
 
   * Initial Release.
