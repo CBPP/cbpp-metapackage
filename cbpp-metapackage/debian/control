@@ -32,7 +32,7 @@ Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb,
  gimp-plugin-registry, gnumeric, abiword, mlocate, python-keybinder, 
  python-notify, udisks, xfce4-power-manager, eject, lxpolkit,
  ibus, mate-media, obapps, cbpp-pipemenus, ntfs-3g,
- cbpp-wallpapers, cbpp-exit, cbpp-configs, cbpp-slim, dosfstools,
+ cbpp-wallpapers, cbpp-exit, cbpp-configs, dosfstools,
  cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-lxdm-theme
 Description: metapackage for CrunchBangPlusPlus
  Basic metapackage for CrunchBangPlusPlus.

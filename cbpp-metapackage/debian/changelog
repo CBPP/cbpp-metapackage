@@ -1,3 +1,10 @@
+cbpp-metapackage (10.0) unstable; urgency=low
+
+  * Ditch cbpp-slim
+  * Add ibus
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 12 May 2019 15:01:23 -0800
+
 cbpp-metapackage (9.0) unstable; urgency=low
 
   * 1+1=9.
