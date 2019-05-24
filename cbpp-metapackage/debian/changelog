@@ -2,6 +2,7 @@ cbpp-metapackage (10.0) unstable; urgency=low
 
   * Ditch cbpp-slim
   * Add ibus
+  * Back to mate-power-manager
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 12 May 2019 15:01:23 -0800
 

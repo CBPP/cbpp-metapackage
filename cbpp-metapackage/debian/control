@@ -30,7 +30,7 @@ Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb,
  apt-xapian-index, usbutils, hsetroot, htop, xsel, build-essential, 
  hexchat, transmission-gtk, vlc, geany, geany-plugins, atril, gimp, 
  gimp-plugin-registry, gnumeric, abiword, mlocate, python-keybinder, 
- python-notify, udisks, xfce4-power-manager, eject, lxpolkit,
+ python-notify, udisks, mate-power-manager, eject, lxpolkit,
  ibus, mate-media, obapps, cbpp-pipemenus, ntfs-3g,
  cbpp-wallpapers, cbpp-exit, cbpp-configs, dosfstools,
  cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-lxdm-theme
