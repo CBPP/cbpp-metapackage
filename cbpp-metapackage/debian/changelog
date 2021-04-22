@@ -1,3 +1,10 @@
+cbpp-metapackage (11.0) unstable; urgency=low
+
+  * Version bump
+  * Dump dead python dependencies and clipit
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 22 Apr 2021 13:17:16 -0800
+
 cbpp-metapackage (10.0) unstable; urgency=low
 
   * Ditch cbpp-slim
