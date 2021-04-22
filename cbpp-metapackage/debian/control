@@ -2,7 +2,7 @@ Source: cbpp-metapackage
 Section: misc
 Priority: optional
 Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper (>= 13)
 Standards-Version: 3.9.5
 Homepage: https://crunchbangplusplus.org
 
@@ -11,7 +11,7 @@ Architecture: all
 Depends: ${misc:Depends}
 Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
  compton, transset-df, file-roller, xscreensaver, terminator, filezilla, 
- lxappearance, arandr, tint2, clipit, catfish, xfce4-notifyd, gksu, 
+ lxappearance, arandr, tint2, parcellite, catfish, xfce4-notifyd, gksu, 
  gdebi, menu, wmctrl, xdotool, desktop-base, thunar, 
  thunar-volman,thunar-media-tags-plugin, thunar-archive-plugin, unace, 
  lzop, rzip,unalz, unzip, zip, zoo, xz-utils, arj, bzip2, alsa-base, 
