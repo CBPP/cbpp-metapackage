@@ -1,3 +1,9 @@
+cbpp-metapackage (11.1) unstable; urgency=low
+
+  * Added mate settings for scrolling on the applet without crashing
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 23 Apr 2021 13:17:16 -0800
+
 cbpp-metapackage (11.0) unstable; urgency=low
 
   * Version bump

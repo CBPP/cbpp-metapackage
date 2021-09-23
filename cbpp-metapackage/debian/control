@@ -31,7 +31,7 @@ Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb,
  hexchat, transmission-gtk, vlc, geany, geany-plugins, atril, gimp, 
  gimp-plugin-registry, gnumeric, abiword, mlocate,
  udisks, xfce4-power-manager, eject, lxpolkit,
- ibus, mate-media, obapps, cbpp-pipemenus, ntfs-3g,
+ ibus, mate-media, mate-settings-daemon-common, obapps, cbpp-pipemenus, ntfs-3g,
  cbpp-wallpapers, cbpp-exit, cbpp-configs, dosfstools,
  cbpp-icon-theme, cbpp-ui-theme, cbpp-welcome, cbpp-lxdm-theme
 Description: metapackage for CrunchBangPlusPlus
