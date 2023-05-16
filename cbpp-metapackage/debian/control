@@ -32,6 +32,5 @@ Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril, avahi-daemon
  wmctrl, xdotool, xfburn, xfce4-notifyd, xfce4-power-manager,
  xfce4-screenshooter, xfsprogs, xinput, xorg, xscreensaver, xsel,
  xtightvncviewer, xz-utils, zenity, zip
-
 Description: metapackage for CrunchBangPlusPlus
  Basic metapackage for CrunchBangPlusPlus.
