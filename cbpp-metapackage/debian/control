@@ -20,7 +20,7 @@ Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril, avahi-daemon
  gigolo, gimp, gimp-plugin-registry, gmrun, gnome-icon-theme, gnumeric,
  gparted, gsimplecal, gtk2-engines-murrine, gvfs-fuse, hexchat, hsetroot,
  htop, ibus, jfsutils, lame, less, libnss-mdns, lxappearance, lxpolkit,
- lzop, mate-media, mate-settings-daemon-common, menu, mlocate,
+ lzop, mate-media, mate-power-manager, mate-settings-daemon-common, menu, mlocate,
  network-manager-gnome, network-manager-openvpn-gnome,
  network-manager-pptp-gnome, network-manager-vpnc-gnome, nitrogen,
  ntfs-3g, ntp, obapps, obconf, obmenu, openbox, openssh-client,
@@ -29,7 +29,7 @@ Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril, avahi-daemon
  thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman,
  tint2, transmission-gtk, tumbler, tumbler-plugins-extra, unace, unalz,
  unzip, usbutils, user-setup, viewnior, vlc, whois, wireless-tools,
- wmctrl, xdotool, xfburn, xfce4-notifyd, xfce4-power-manager,
+ wmctrl, xdotool, xfburn, xfce4-notifyd,
  xfce4-screenshooter, xfsprogs, xinput, xorg, xscreensaver, xsel,
  xtightvncviewer, xz-utils, zenity, zip
 Description: metapackage for CrunchBangPlusPlus

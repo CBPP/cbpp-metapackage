@@ -2,6 +2,7 @@ cbpp-metapackage (12.0) unstable; urgency=low
 
   * Version update for cbpp12
   * trimmed the metapackage recommends
+  * xfce4-power-manager -> mate-power-manager
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 14 May 2023 15:05:16 -0800
 
