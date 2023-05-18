@@ -9,11 +9,11 @@ Homepage: https://crunchbangplusplus.org
 Package: cbpp-metapackage
 Architecture: all
 Depends: ${misc:Depends}
-Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril, avahi-daemon,
- avahi-utils, bash-completion, bc, build-essential, bzip2, catfish,
+Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril,
+ bash-completion, bc, bzip2, catfish,
  cbpp-configs, cbpp-exit, cbpp-icon-theme, cbpp-lxdm-theme,
  cbpp-pipemenus, cbpp-ui-theme, cbpp-wallpapers, cbpp-welcome,
- compton, conky-all, cowsay, cpufrequtils, curl, debconf-utils,
+ compton, conky-all, cowsay, curl, debconf-utils,
  desktop-base, dmz-cursor-theme, dosfstools, e2fsprogs, eject, figlet,
  file-roller, filezilla, firefox-esr, fonts-freefont-ttf,
  fonts-liberation, ftp, galculator, gdebi, geany, geany-plugins,
@@ -24,7 +24,7 @@ Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril, avahi-daemon
  network-manager-gnome, network-manager-openvpn-gnome,
  network-manager-pptp-gnome, network-manager-vpnc-gnome, nitrogen,
  ntfs-3g, ntp, obapps, obconf, obmenu, openbox, openssh-client,
- os-prober, parcellite, pulseaudio, reiser4progs, reiserfsprogs, rpl,
+ os-prober, parcellite, pulseaudio, rpl,
  rsync, rzip, screen, scrot, sshfs, suckless-tools, synaptic, terminator,
  thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman,
  tint2, transmission-gtk, tumbler, tumbler-plugins-extra, unace, unalz,
