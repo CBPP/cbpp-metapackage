@@ -2,7 +2,7 @@ cbpp-metapackage (13.0) unstable; urgency=low
 
   * trimmed the metapackage recommends
 
- -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 08 June 2025 15:05:16 -0800
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 08 Jun 2025 15:05:16 -0800
 
 cbpp-metapackage (12.0) unstable; urgency=low
 
